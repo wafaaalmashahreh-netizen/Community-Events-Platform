@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Community Events Platform": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
